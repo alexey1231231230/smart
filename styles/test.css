@@ -40,7 +40,7 @@ body {
 
 .phone-bg{
     box-sizing: border-box;
-    width:920px;
+    width:420px;
     padding:20px;
     background-color: #e9e9dc;
     border-radius: 20px;
@@ -49,7 +49,7 @@ body {
 }
 
 .phone-img{
-    width:430px;
+    width:180px;
     display: inline-block;
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
