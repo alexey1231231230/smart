@@ -11,6 +11,7 @@ let phones = [
         ROM:512,
         weight:450,
         camera:35,
+        screen:6.2,
     },
     {
         name:'Iphone',
@@ -22,6 +23,7 @@ let phones = [
         ROM:512,
         weight:450,
         camera:35,
+        screen:6.2,
     },
     {
         name:'Iphone',
@@ -33,6 +35,7 @@ let phones = [
         ROM:512,
         weight:450,
         camera:35,
+        screen:6.2,
     },
     {
         name:'Iphone',
@@ -44,5 +47,6 @@ let phones = [
         ROM:512,
         weight:450,
         camera:35,
+        screen:6.2,
     },
 ]

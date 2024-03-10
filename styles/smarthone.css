@@ -1,0 +1,74 @@
+.phone-bg{
+    box-sizing: border-box;
+    width:920px;
+    padding:20px;
+    background-color: #e9e9dc;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px 0px #746c6c;
+    margin: 20px 0;
+}
+
+.phone-img{
+    width:430px;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    overflow:hidden;
+}
+
+.phone-img img {
+    object-fit: contain;
+    width: 100%;
+    height: 100%;
+}
+
+.phone-description {
+    position:relative;
+    margin-left: 20px;
+    vertical-align: top;
+    width:430px;
+    display: inline-block;
+    font-size: 26px;
+    height:430px;
+}
+
+.phone-description h3 {
+    margin: 0;
+    font-size: 40px;
+    text-align: center;
+}
+
+.phone-description h3 span {
+    color: #2f2f2f;
+}
+
+.phone-description p{
+    margin:0;
+    padding-top:10px;
+}
+
+.phone-description p span{
+    font-weight:bold;
+}
+
+.phone-description .order div{
+    display:inline-block;
+    width:215px;
+    font-size:32px;
+    font-weight:bold;
+}
+
+.phone-description .order button {
+    box-sizing: border-box;
+    width: 215px;
+    height: 40px;
+    font-size: 30px;
+    background-color: #ff7800;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+.phone-description .order {
+    position:absolute;
+    bottom:0;
+}
